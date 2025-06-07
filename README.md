@@ -126,3 +126,13 @@ Generate text:
 ```python
 output = model.generate(input_ids)
 ```
+
+
+# **Performance**
+
+Model achieved a stunning performance though it was trained on a small corpus it acheived a 0.12 loss which exponentially is less than 1 which is significantly good for language model
+
+    Epoch 97 | AVG Loss: 0.1371| Loss: 0.1371
+    Epoch 98 | AVG Loss: 0.1306| Loss: 0.1306
+    Epoch 99 | AVG Loss: 0.1270| Loss: 0.1270
+    Epoch 100 | AVG Loss: 0.1206| Loss: 0.1206
