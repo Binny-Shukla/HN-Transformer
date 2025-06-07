@@ -93,8 +93,11 @@ Solution:
 ### 3. Other Improvements Needed
    
 🔸 Better Masking Handling – Optimize decoder attention masking.
+
 🔸 More Efficient Training – Add gradient checkpointing & mixed precision.
+
 🔸 Evaluation Metrics – Add BLEU, ROUGE for NLP tasks.
+
 🔸 Deployment Readiness – Add ONNX export & quantization support.
 
 📂 How to Use
